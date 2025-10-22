@@ -11,7 +11,7 @@ i el resultat esperat.'''
 _author_ = "Adrian Batalla"
 _email_ = "abatalla@instituticari.cat"
 _date_ = "2025/10/22"
-6
+
 Divident = int(input("Ingresa el divident"))
 Divisor = int(input("ingresat el divisor"))
 Quocient = (Divident)//(Divisor)
