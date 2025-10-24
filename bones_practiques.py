@@ -1,5 +1,4 @@
-# !/urs/bin/env python
-
+# !/usr/bin/env python
 '''bones_practiques.py. Descripció curta dle programa
 
 Institut Icària
