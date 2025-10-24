@@ -1,10 +1,11 @@
-# !/usr/bin/env python
-'''bones_practiques.py. Descripció curta dle programa
+#!/usr/bin/env python
+'''bones_practiques.py. Calcula la divisió entre dos nombres enters.
 
 Institut Icària
 Programació - 1r Batxillerat - Curs 2024-5
 
-Descripció llarga del programa. Indicar que fa el programa
+Calcula el quocient i el residu de la divisió entre dos nombres enters.
+ Indicar que fa el programa
 i el resultat esperat.'''
 
 _author_ = "Adrian Batalla"
